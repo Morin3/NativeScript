@@ -6,12 +6,12 @@
   "types": "reworkcss.d.ts",
   "dependencies": {
     "source-map": "^0.1.38",
-    "source-map-resolve": "^0.3.0",
+    "source-map-resolve": "^0.6.0",
     "urix": "^0.1.0",
     "inherits": "^2.0.1"
   },
   "devDependencies": {
-    "mocha": "^1.21.3",
+    "mocha": "^11.0.1",
     "should": "^4.0.4",
     "matcha": "^0.5.0",
     "bytes": "^1.0.0"
