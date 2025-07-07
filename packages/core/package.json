@@ -53,7 +53,7 @@
     "preuninstall": "node cli-hooks/preuninstall.js"
   },
   "dependencies": {
-    "@nativescript/hook": "~2.0.0",
+    "@nativescript/hook": "~3.0.0",
     "acorn": "^8.7.0",
     "css-tree": "^1.1.2",
     "css-what": "^6.1.0",
