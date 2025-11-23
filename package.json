@@ -26,12 +26,12 @@
     "@nstudio/focus": "^19.0.0",
     "@nstudio/nps-i": "~2.0.0",
     "@nx/devkit": "19.4.2",
-    "@nx/eslint-plugin": "19.4.2",
-    "@nx/jest": "21.3.0",
-    "@nx/js": "19.4.2",
-    "@nx/node": "21.3.0",
-    "@nx/plugin": "21.3.0",
-    "@nx/workspace": "19.4.2",
+    "@nx/eslint-plugin": "20.0.9",
+    "@nx/jest": "20.0.9",
+    "@nx/js": "20.0.9",
+    "@nx/node": "20.0.9",
+    "@nx/plugin": "20.0.9",
+    "@nx/workspace": "20.0.9",
     "@prettier/plugin-xml": "^3.4.1",
     "@types/jest": "~29.5.0",
     "@types/node": "^20.0.0",
@@ -55,7 +55,7 @@
     "module-alias": "^2.2.2",
     "nativescript": "8.8.0",
     "nativescript-typedoc-theme": "1.1.0",
-    "nx": "19.4.2",
+    "nx": "20.0.9",
     "parse-css": "git+https://github.com/tabatkins/parse-css.git",
     "parserlib": "^1.1.1",
     "prettier": "^3.2.5",
@@ -69,7 +69,7 @@
     "tslib": "^2.6.0",
     "typedoc": "^0.25.12",
     "typescript": "~5.4.0",
-    "zx": "^7.2.0"
+    "zx": "^8.1.1"
   },
   "lint-staged": {
     "**/*.{js,ts,css,scss,json,html}": [
