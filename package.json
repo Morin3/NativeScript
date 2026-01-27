@@ -45,7 +45,7 @@
     "css-what": "^6.1.0",
     "dotenv": "~16.4.0",
     "emoji-regex": "^10.3.0",
-    "eslint": "~9.0.0",
+    "eslint": "~9.26.0",
     "eslint-config-prettier": "~9.1.0",
     "gonzales": "^1.0.7",
     "husky": "^9.0.0",
